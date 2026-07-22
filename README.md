@@ -39,7 +39,7 @@ Package Used:
 
 Structure Of Project:
     app/
-        ├── api/endpoints/ \n
+        ├── api/endpoints/ 
         ├── core/           # config, security, deps
         ├── models/
         ├── schemas/
