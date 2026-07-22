@@ -3,7 +3,7 @@
 
 
 clone:
-    git clone https://github.com/yourusername/faceid-api.git
+    git clone https://github.com/alikhan7939/FaceID-API.git
     cd faceid-api
 
 env:
@@ -39,7 +39,7 @@ Package Used:
 
 Structure Of Project:
     app/
-        ├── api/endpoints/
+        ├── api/endpoints/ \n
         ├── core/           # config, security, deps
         ├── models/
         ├── schemas/
